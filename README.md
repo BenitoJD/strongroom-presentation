@@ -1,3 +1,3 @@
 # StrongRoom presentation
 
-[Download the PowerPoint](StrongRoom-Presentation.pptx)
+[Download the PowerPoint](StrongRoom-Presentation-Windows.pptx)
